@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\DayNightCycle\\Source\\DayNightCycle\\DayNightCycle.Build.cs",
+		"D:\\Unreal Projects\\DayNightCycle\\Source\\DayNightCycle.Target.cs",
+		"D:\\Unreal Projects\\DayNightCycle\\Source\\DayNightCycleEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DayNightCycle",
+			"Path": "..\\Source\\DayNightCycle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DayNightCycleEditor",
+			"Path": "..\\Source\\DayNightCycleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
